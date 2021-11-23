@@ -1,2 +1,2 @@
-# SQL-COVID-19
-SQL-based project about COVID-19, where we can analyze and take some insights from the ETL
+This Repository will hold all of the SQL code and queries that I created. 
+Feel free to take these and run with them. Make them your own and find your own insights. 
